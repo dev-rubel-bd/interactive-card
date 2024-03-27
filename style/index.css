@@ -1,8 +1,16 @@
+
 /* main section */
 #section{
     height: 720px;
     width: 1280px;
     display: flex;
+
+    
+}
+.card-text{
+    color: white;
+    font-family: "Quicksand", sans-serif;
+    text-align: center;
 }
 /* left section */
 #left-section{
@@ -19,3 +27,21 @@
 
 
 }
+#card{
+
+
+}
+#front-card{
+    height: 200px;
+    width: 380px;
+    background-image: url(../images/bg-card-front.png);
+    border-radius: 8px;
+}
+#back-card{
+    height: 200px;
+    width: 380px;
+    background-image: url(../images/bg-card-back.png);
+    border-radius: 8px;
+
+}
+/* form section */
