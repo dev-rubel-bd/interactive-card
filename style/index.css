@@ -1,0 +1,21 @@
+/* main section */
+#section{
+    height: 720px;
+    width: 1280px;
+    display: flex;
+}
+/* left section */
+#left-section{
+    height: 720px;
+    width: 430px;
+    background-image: url(../images/bg-main-desktop.png);
+
+}
+/* right Section */
+#right-section{
+    height: 720px;
+    width: 850px;
+    background-color: whitesmoke;
+
+
+}
